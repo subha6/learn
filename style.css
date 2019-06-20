@@ -1,1 +1,8 @@
-
+body {
+    color: black;
+    background-color: lightskyblue;
+    text-align: center;
+}
+img {
+    height: 100%
+    width: 100%
